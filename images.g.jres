@@ -77,7 +77,7 @@
         "mimeType": "application/mkcd-animation",
         "data": "ZjQwMTEwMDAxMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAzMzMzMDMwMDAwMDAwMDMwMDAwMDAzMDAwMDMwMzMwMzAwMDAwMzAwMzAwMzMwMDMwMDMwMDAwMDAzMDAwMDAzMDAzMDAwMDAzMDAwMDAwMzAwMDMwMDAwMzAwMDMzMDMzMzAwMDAwMDMwMzMwMDMzMDAwMDAwMDAzMDMzMzMwMzAwMDAwMDAwMzAwMDMwMDAwMDAwMDAwMDMwMDAzMDAwMDAwMDAwMDAwMDMzMDMwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA=",
         "displayName": "myAnim",
-        "tags": "animation"
+        "tags": ["animation"]
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
