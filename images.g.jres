@@ -57,6 +57,28 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "p3"
     },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "ZjQwMTEwMDAxMDAwMDEwMDAwMzMzMzAwMDAwMDAwMDAzMDAwMDAzMzAwMDAwMDAwMzAwMDAwMDAwMzAwMDAwMDMwMDAwMDMwMDMwMDAwMDAzMDAwMDAwMzAzMDAwMDAwMDAwMzMwMDAwMzAwMDAwMDAwMzAzMDAwMDMwMDMwMDMwMDMwMzAzMDAwMzAwMzAzMDAwMDMzMDMwMDAzMDAzMDAwMDAzMzAwMzAwMDAwMDAwMDMwMDMzMzAwMDAwMDAwMDAwMDAwMDAzMzAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA=",
+        "displayName": "myAnim"
+    },
+    "anim2": {
+        "namespace": "myAnimations",
+        "id": "anim2",
+        "mimeType": "application/mkcd-animation",
+        "data": "ZjQwMTEwMDAxMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAzMzMzMDAwMDAwMDAwMDMzMDAzMDAzMDAwMDAwMzAzMDMzMzMwMzAwMDAwMDMwMzAwMzMwMDMwMDAwMDAzMDMwMzMzMzMzMDMwMDAwMDAzMzAzMzAzMzAzMDAwMDAwMzMzMzMzMDMzMDAwMDAwMDMzMzMzMzAwMzMwMDAwMzMwMDMzMzMzMzAzMDAwMDAwMDAzMzAzMzAwMDAwMDAwMDAwMDMwMzAzMDAwMDAwMDAwMDMwMzMwMDAwMDAwMDAwMDAwMDMwMDAwMDAwMDAwMDAwMDAwMzAwMDA=",
+        "displayName": "myAnim"
+    },
+    "anim3": {
+        "namespace": "myAnimations",
+        "id": "anim3",
+        "mimeType": "application/mkcd-animation",
+        "data": "ZjQwMTEwMDAxMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAzMzMzMDMwMDAwMDAwMDMwMDAwMDAzMDAwMDMwMzMwMzAwMDAwMzAwMzAwMzMwMDMwMDMwMDAwMDAzMDAwMDAzMDAzMDAwMDAzMDAwMDAwMzAwMDMwMDAwMzAwMDMzMDMzMzAwMDAwMDMwMzMwMDMzMDAwMDAwMDAzMDMzMzMwMzAwMDAwMDAwMzAwMDMwMDAwMDAwMDAwMDMwMDAzMDAwMDAwMDAwMDAwMDMzMDMwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA=",
+        "displayName": "myAnim",
+        "tags": "animation"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
